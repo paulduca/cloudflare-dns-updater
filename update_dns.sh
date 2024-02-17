@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Cloudflare settings
 API_TOKEN="<cloudflare_api_token>"         # Your API_TOKEN
 ZONE_ID="<zone_id>"                        # Cloudflare Zone ID
